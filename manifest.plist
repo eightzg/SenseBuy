@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://mall.charmingglobe.com/ygyg_pad/ygyg_icon_1.png</string>
+					<string>https://bmob-cdn-20607.b0.upaiyun.com/2018/07/19/0f23ffb440fe65948044fb7019e9d147.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://mall.charmingglobe.com/ygyg_pad/ygyg_icon_2.png</string>
+					<string>https://bmob-cdn-20607.b0.upaiyun.com/2018/07/19/254264e840d5951f8033260378fe4720.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://mall.charmingglobe.com/ygyg_pad/SenseBuy.ipa</string>
+					<string>https://bmob-cdn-20607.b0.upaiyun.com/2018/07/19/7f814477409f38e580c9c04e8609c242.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
